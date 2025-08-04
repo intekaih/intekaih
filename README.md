@@ -13,7 +13,6 @@
 ---
 
 ## 🐍 Rắn săn mồi trên bảng contributions
-> Cập nhật tự động mỗi ngày bằng GitHub Actions (thiết lập ở bước 2).
 <p align="center">
   <img src="https://github.com/intekaih/intekaih/blob/output/github-contribution-grid-snake.svg" alt="snake animation"/>
 </p>
