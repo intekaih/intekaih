@@ -10,9 +10,6 @@
   <img src="https://komarev.com/ghpvc/?username=intekaih&label=Visitors&style=flat&color=green" alt="profile views"/>
 </p>
 
----
-
-## 🐍 Rắn săn mồi trên bảng contributions
 <p align="center">
   <img src="https://github.com/intekaih/intekaih/blob/output/github-contribution-grid-snake.svg" alt="snake animation"/>
 </p>
