@@ -16,7 +16,7 @@
 <p align="center">
   <img src="https://github.com/intekaih/intekaih/blob/output/github-contribution-grid-snake.svg" alt="snake animation"/>
 </p>
-![github contribution grid snake animation](https://github.com/intekaih/intekaih/blob/output/github-contribution-grid-snake.svg)
+
 ---
 
 ## 🏙️ GitHub Skyline (3D)
