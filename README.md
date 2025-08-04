@@ -1,5 +1,5 @@
 # 💫 About Me:
-- 🎓 Sinh viên tại **Đại học Đà Lạt**  <br>- 💻 Yêu thích lập trình: **Python**, **JavaScript**, **Web**, **AI**<br>- 🌱 Hiện đang học: `React`, `Node.js`, `Machine Learning`<br>- 📬 Liên hệ: `tienkhai030804@gmail.com`<br>- 🎉 Fun fact: Mình mê **xe**, **open-source** và thể thao!
+<br> - 🎓 Sinh viên tại **Đại học Đà Lạt**  <br>- 💻 Yêu thích lập trình: **Python**, **JavaScript**, **Web**, **AI**<br>- 🌱 Hiện đang học: `React`, `Node.js`, `Machine Learning`<br>- 📬 Liên hệ: `tienkhai030804@gmail.com`<br>- 🎉 Fun fact: Mình mê **xe**, **open-source** và thể thao!
 
 
 ## 🌐 Socials:
