@@ -1,3 +1,40 @@
+<!-- ───── ✨ HEADER TYPING ANIMATION ✨ ───── -->
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&center=true&vCenter=true&width=750&lines=Xin+ch%C3%A0o%2C+m%C3%ACnh+l%C3%A0+Kh%E1%BA%A3i+(intekaih)!;Sinh+vi%C3%AAn+CNTT+-+%C4%90%E1%BA%A1i+h%E1%BB%8Dc+%C4%90%C3%A0+L%E1%BA%A1t;Y%C3%AAu+Web%2C+AI%2C+Hacking+v%C3%A0+th%E1%BB%83+thao" />
+  </a>
+</p>
+
+<!-- Visitor counter -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=intekaih&label=Visitors&style=flat&color=green" alt="profile views"/>
+</p>
+
+---
+
+## 🐍 Rắn săn mồi trên bảng contributions
+> Cập nhật tự động mỗi ngày bằng GitHub Actions (thiết lập ở bước 2).
+<p align="center">
+  <img src="https://github.com/intekaih/intekaih/blob/output/github-contribution-grid-snake.svg" alt="snake animation"/>
+</p>
+
+---
+
+## 🏙️ GitHub Skyline (3D)
+> Tạo ảnh GIF thành phố 3D từ contributions (tùy chọn, xem bước 3).
+<p align="center">
+  <!-- Đổi đường dẫn ảnh sau khi bạn tải/gắn file vào repo -->
+  <img src="assets/skyline.gif" alt="github skyline" width="100%"/>
+</p>
+
+---
+
+## 🔤 Typing tagline mini
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&duration=2500&pause=800&color=00D1FF&center=true&vCenter=true&width=650&lines=Python+%7C+JavaScript+%7C+.NET;React+%7C+Node.js;Lu%C3%B4n+h%E1%BB%8Dc+h%E1%BB%8Fi+v%C3%A0+chia+s%E1%BA%BB+Open+Source" />
+</p>
+
+
 # 💫 About Me:
 <br>- 🎓 Sinh viên tại **Đại học Đà Lạt**  <br>- 💻 Yêu thích lập trình: **Python**, **JavaScript**, **Web**, **AI**<br>- 🌱 Hiện đang học: `React`, `Node.js`, `Machine Learning`<br>- 📬 Liên hệ: `tienkhai030804@gmail.com`<br>- 🎉 Fun fact: Mình mê **xe**, **Hacking** và thể thao!
 
