@@ -1,11 +1,21 @@
 
-<p align="center">
-  <img src="https://github.com/intekaih/intekaih/blob/main/assets/Rainbow%20Glasses%20GIF%20by%20nounish%20%E2%8C%90%E2%97%A8-%E2%97%A8.gif?raw=true" width="200px" />
-</p>
-
-# 💫 About Me:
-<br>- 🎓 Sinh viên tại **Đại học Đà Lạt**  <br>- 💻 Yêu thích lập trình: **Python**, **JavaScript**, **Mobile**, **AI**<br>- 🌱 Hiện đang học: `React`, `Node.js`, `Machine Learning`<br>- 📬 Liên hệ: `tienkhai030804@gmail.com`<br>- 🎉 Fun fact: Mình mê **xe**, **hacking** và thể thao!
-
+<table>
+  <tr>
+    <td>
+      <img src="https://github.com/intekaih/intekaih/blob/main/assets/Rainbow%20Glasses%20GIF%20by%20nounish%20%E2%8C%90%E2%97%A8-%E2%97%A8.gif?raw=true" width="200px"/>
+    </td>
+    <td>
+      <h2>💫 About Me:</h2>
+      <ul>
+        <li>🎓 Sinh viên tại <strong>Đại học Đà Lạt</strong></li>
+        <li>💻 Yêu thích lập trình: <strong>Python</strong>, <strong>JavaScript</strong>, <strong>Mobile</strong>, <strong>AI</strong></li>
+        <li>🌱 Hiện đang học: <code>React</code>, <code>Node.js</code>, <code>Machine Learning</code></li>
+        <li>📬 Liên hệ: <code>tienkhai030804@gmail.com</code></li>
+        <li>🎉 Fun fact: Mình mê <strong>xe</strong>, <strong>hacking</strong> và <strong>thể thao</strong>!</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/intekaih) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Inte.kaih.384) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@Inte.kaih.384) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:tienkhai030804@gmail.com) 
