@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Hi%2C+m%C3%ACnh+l%C3%A0+intekaih;Y%C3%AAu+Web%2C+AI%2C+Hacking;Welcome+to+my+profile!" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=500&center=true&vCenter=true&lines=Hi%2C+m%C3%ACnh+l%C3%A0+intekaih;Y%C3%AAu+Web%2C+AI%2C+Hacking;Welcome+to+my+profile!&color=ec38bc&vCenter=true&background=none&multiline=true&gradient=true&width=500&height=45&duration=3000&repeat=true&colors=ec38bc,7303c0,03001e" />
 </p>
+
 
 <table>
   <tr>
