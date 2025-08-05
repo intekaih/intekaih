@@ -2,9 +2,6 @@
 <table>
   <tr>
     <td>
-      <img src="https://github.com/intekaih/intekaih/blob/main/assets/Rainbow%20Glasses%20GIF%20by%20nounish%20%E2%8C%90%E2%97%A8-%E2%97%A8.gif?raw=true" width="200px"/>
-    </td>
-    <td>
       <h2>💫 About Me:</h2>
       <ul>
         <li>🎓 Sinh viên tại <strong>Đại học Đà Lạt</strong></li>
@@ -13,6 +10,9 @@
         <li>📬 Liên hệ: <code>tienkhai030804@gmail.com</code></li>
         <li>🎉 Fun fact: Mình mê <strong>xe</strong>, <strong>hacking</strong> và <strong>thể thao</strong>!</li>
       </ul>
+    </td>
+    <td>
+      <img src="https://github.com/intekaih/intekaih/blob/main/assets/Rainbow%20Glasses%20GIF%20by%20nounish%20%E2%8C%90%E2%97%A8-%E2%97%A8.gif?raw=true" width="200px"/>
     </td>
   </tr>
 </table>
