@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=intekaih&theme=react-dark&hide_border=true" />
-</p>
 
 <table>
   <tr>
@@ -38,5 +35,11 @@
   ## 💰 You can help me by Donating
   [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/intekaih) 
 
-  
+  <p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=intekaih&theme=react-dark&hide_border=true" />
+</p>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=intekaih&theme=gruvbox&margin-w=10&no-bg=true&no-frame=true" />
+</p>
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
